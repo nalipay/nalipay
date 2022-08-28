@@ -16,4 +16,4 @@
 
 
 
-![Bildschirmfoto 2022-08-28 um 15 48 06](https://user-images.githubusercontent.com/104554937/187086177-69939fb2-19a1-451f-be46-4081b3397bda.jpg)
+![Bildschirmfoto 2022-08-28 um 15 48 06](https://user-images.githubusercontent.com/104554937/187086177-69939fb2-19a1-451f-be46-4081b3397bda.jpg | width=100)
