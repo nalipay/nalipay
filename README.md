@@ -2,6 +2,6 @@
 
   [rabbit](https://social-news-aggregator-rabbit.herokuapp.com/)
   <br>
-  [CO2-Tamagotchi](https://co2tamagotchiapp.herokuapp.com/)
+  [co2-tamagotchi](https://co2tamagotchiapp.herokuapp.com/)
   <br>
-  [Snack Attack](https://nalipay.github.io/Project-1-The-Game/)
+  [snack attack](https://nalipay.github.io/Project-1-The-Game/)
