@@ -1,6 +1,6 @@
 ### project links
 
-  [Rabbit](https://social-news-aggregator-rabbit.herokuapp.com/)
+  [rabbit](https://social-news-aggregator-rabbit.herokuapp.com/)
   <br>
   [CO2-Tamagotchi](https://co2tamagotchiapp.herokuapp.com/)
   <br>
